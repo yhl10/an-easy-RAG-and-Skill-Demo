@@ -1,0 +1,82 @@
+[
+  {
+    "production": "计算器",
+    "price": 20.00
+  },
+  {
+    "production": "钢笔",
+    "price": 73.04
+  },
+  {
+    "production": "圆珠笔",
+    "price": 90.59
+  },
+  {
+    "production": "铅笔",
+    "price": 29.61
+  },
+  {
+    "production": "彩色铅笔",
+    "price": 74.94
+  },
+  {
+    "production": "记号笔",
+    "price": 79.99
+  },
+  {
+    "production": "文件夹",
+    "price": 32.59
+  },
+  {
+    "production": "墨水",
+    "price": 36.75
+  },
+  {
+    "production": "便利贴",
+    "price": 76.93
+  },
+  {
+    "production": "白板笔",
+    "price": 42.11
+  },
+  {
+    "production": "笔记本",
+    "price": 27.05
+  },
+  {
+    "production": "水彩笔",
+    "price": 72.61
+  },
+  {
+    "production": "尺子",
+    "price": 11.6
+  },
+  {
+    "production": "修正带",
+    "price": 2.99
+  },
+  {
+    "production": "马克笔",
+    "price": 8.4
+  },
+  {
+    "production": "回形针",
+    "price": 9.82
+  },
+  {
+    "production": "橡皮擦",
+    "price": 10.63
+  },
+  {
+    "production": "订书机",
+    "price": 13.37
+  },
+  {
+    "production": "胶水",
+    "price": 3.52
+  },
+  {
+    "production": "荧光笔",
+    "price": 14.61
+  }
+]
